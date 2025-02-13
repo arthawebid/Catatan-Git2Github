@@ -1,7 +1,14 @@
 #   Catatan Tambahan
 ##  Github Inisialisasi Project dan Push Update Project
 
-###  Inisialisasi Project
+### Set user.name dan user.email pada global git
+```
+git config --global user.email "email akun Github"
+```
+```
+git config --global user.name "Nama User Github"
+```
+### Inisialisasi Project
 ```
 echo # Isikan Nama Project >> README.md
 ```
