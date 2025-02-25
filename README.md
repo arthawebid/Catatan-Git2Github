@@ -10,7 +10,7 @@ git config --global user.name "Nama User Github"
 ```
 ### Inisialisasi Project
 ```
-echo # Isikan Nama Project >> README.md
+echo # Project XX >> README.md && echo ## Nama Author (NIM) >> README.md
 ```
 ``
 echo ## Nama (xxxxxxxxxxxx) >> README.md
