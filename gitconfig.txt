@@ -1,0 +1,3 @@
+@echo off
+git config --global user.email "email akun Github"
+git config --global user.name "Nama User Github"
