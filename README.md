@@ -55,8 +55,8 @@ git push -u origin main
 Ganti tulisan "Keterangan commit" dengan catatan yang diinginkan atau gunakan batfile gitconfig.bat
 
 cara menggunakan batfile
-````batfile
+```batfile
 gitconfig emailgithub nama
-````batfile
+```batfile
 
 ### ~~~~
