@@ -52,7 +52,7 @@ git branch -M main
 git push -u origin main
 ```
 
-Ganti tulisan "Keterangan commit" dengan catatan yang diinginkan atau gunakan batfile gitconfig.bat
+Ganti tulisan "Keterangan commit" dengan catatan yang diinginkan atau gunakan batfile <a href="gitconfig.bat">gitconfig.bat</a>
 
 cara menggunakan batfile
 ```
