@@ -63,7 +63,7 @@ cara menggunakan
 gitconfig emailgithub nama
 ```
 
-### 2. [gitsetup.bat]
+### 2. [***gitsetup.bat***](gitsetup.bat)
 digunakan untuk setup repositories git
 
 cara menggunakan
@@ -71,7 +71,7 @@ cara menggunakan
 gitsetup "Nama Project" "Nama Pembuat (NIM)" "keterangan commit" "url repositories"
 ```
 
-### 3. [gitupdate.bat]
+### 3. [***gitupdate.bat***](gitupdate.bat)
 digunakan untuk update repositories git
 
 cara menggunakan
