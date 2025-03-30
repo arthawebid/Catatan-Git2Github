@@ -55,7 +55,7 @@ git push -u origin main
 Ganti tulisan "Keterangan commit" dengan catatan yang diinginkan.
 
 ## Batfile untuk membantu proses
-### 1. <a href="gitconfig.bat">gitconfig.bat</a>
+### 1. gitconfig.bat
 digunakan untuk konfigurasi git
 
 cara menggunakan
@@ -63,7 +63,7 @@ cara menggunakan
 gitconfig emailgithub nama
 ```
 
-### 2. <a href="gitsetup.bat">gitsetup.bat</a>
+### 2. gitsetup.bat
 digunakan untuk setup repositories git
 
 cara menggunakan
@@ -71,7 +71,7 @@ cara menggunakan
 gitsetup "Nama Project" "Nama Pembuat (NIM)" "keterangan commit" "url repositories"
 ```
 
-### 3. <a href="gitupdate.bat">gitupdate.bat</a>
+### 3. gitupdate.bat
 digunakan untuk update repositories git
 
 cara menggunakan
