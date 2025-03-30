@@ -55,7 +55,7 @@ git push -u origin main
 Ganti tulisan "Keterangan commit" dengan catatan yang diinginkan.
 
 ## Batfile untuk membantu proses
-### 1. [***gitconfig.bat***]
+### 1. [***gitconfig.bat***](gitconfig.bat)
 digunakan untuk konfigurasi git
 
 cara menggunakan
